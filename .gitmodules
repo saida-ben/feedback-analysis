@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/saida-ben/feedback-analyzer-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/saida-ben/Feedback_analyzer_project
